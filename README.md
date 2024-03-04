@@ -7,6 +7,10 @@
 
 this is a project on sales analysis of an imaginary store. In this project i explored sales trend over time, identified the best-selling products, calculated revenue metrics and created visual representations of my data to present my findings effectively. This project showcases my ability to manipulate and derive insights from large datasets, enabling me to make data-driven recommendations for optimizing sales strategies.
 
+## Problem Statement
+
+1.
+
 ## tool
 
 MS Excel
@@ -22,4 +26,11 @@ MS Excel
 
 ## Process
 
-
+- data inspection.
+- Deleting redundant columns.
+- Renaming the columns.
+- Dropping duplicates.
+- Cleaning and formatting individual columns.
+- Handling NaN values in the dataset
+- creating  new columns using excel formulas.
+- exploratory data analysis with visualizations.
