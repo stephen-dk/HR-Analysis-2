@@ -5,7 +5,7 @@
 --
 ## Project Overview
 
-this is a project on sales analysis of an imaginary store. In this project i explored sales trend over time, identified the best-selling products, calculated revenue metrics and created visual representations of my data to present my findings effectively. This project showcases my ability to manipulate and derive insights from large datasets, enabling me to make data-driven recommendations for optimizing sales strategies.
+this is a project on sales analysis of an imaginary store. In this project i explored sales trend over time, identified the best-selling products, calculated revenue metrics and created visual representations of my data to present my findings effectively. This project showcases my ability to manipulate and derive insights from large datasets, enabling me to answer business questions and make data-driven recommendations for optimizing sales strategies.
 
 ## Problem Statement
 
