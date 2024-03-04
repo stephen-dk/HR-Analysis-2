@@ -47,5 +47,8 @@ MS Excel
 ![MariSKILL Sales Viz Picture](https://github.com/stephen-dk/Sales-Analysis/assets/144712896/de846ba7-caa2-4b8f-bf72-aa1632ab66e7)
 --
 
+[**Explore Dashboard**](https://1drv.ms/x/s!AmpTB2IVyETdgTYKLWXyVUBT65Nv?e=L7MMTo)
 
 
+## Results
+1. 
