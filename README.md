@@ -38,7 +38,7 @@ MS Excel
 - Dropping duplicates.
 - Cleaning and formatting individual columns.
 - Handling NaN values in the dataset
-- creating  new columns using excel formulas.
+- Creating  new columns using excel formulas.
 - exploratory data analysis with visualizations.
 
 
@@ -51,4 +51,12 @@ MS Excel
 
 
 ## Results
-1. 
+1. Total sales for 2019 and 2020 is $34,492036.
+2. The total quantity of goods sold in boston in 2019 is 22542.
+3. AAA Battries(4 pack) is the most sold product with 31017 sales.
+4. The least sold product is the LG Dryer with 646 sales.
+5. The most sold product in New York City is the AAA Battries(4 pack) with 4124 sales.
+6. San Francisco has the highest percentage of total sales.
+7. We made the most sales in December 2019.
+
+
