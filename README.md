@@ -12,3 +12,14 @@ this is a project on sales analysis of an imaginary store. In this project i exp
 MS Excel
 
 ## Skills And Concepts Demonstrated
+
+- Exel formulas
+- Pivot tables
+- Pivot charts
+- Connections
+- Slicers
+
+
+## Process
+
+
