@@ -10,7 +10,7 @@ this is a project on sales analysis of an imaginary store. In this project i exp
 ## Problem Statement
 
 1. What is our total sales from 2019 to 2020.
-2. what is the total quantity of goods sold in boston in 2019.
+2. what was the total quantity of goods sold in boston in 2019.
 3. Most sold product.
 4. Least sold product
 5. Most sold product in in New York City.
@@ -40,3 +40,12 @@ MS Excel
 - Handling NaN values in the dataset
 - creating  new columns using excel formulas.
 - exploratory data analysis with visualizations.
+
+
+## Data Visualization
+
+![MariSKILL Sales Viz Picture](https://github.com/stephen-dk/Sales-Analysis/assets/144712896/de846ba7-caa2-4b8f-bf72-aa1632ab66e7)
+--
+
+
+
