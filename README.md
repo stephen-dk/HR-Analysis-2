@@ -13,7 +13,7 @@ this is a project on sales analysis of an imaginary store. In this project i exp
 2. what was the total quantity of goods sold in boston in 2019.
 3. Most sold product.
 4. Least sold product
-5. Most sold product in in New York City.
+5. Most sold product in New York City.
 6. Which location has the most percentage of total sales.
 7. what year and month did we make the most sales.
 
